@@ -8,9 +8,9 @@
         <version>25</version>
     </parent>
 
-    <groupId>com.facebook.presto</groupId>
+    <groupId>com.github.zacblanco</groupId>
     <artifactId>presto-maven-plugin</artifactId>
-    <version>0.6-SNAPSHOT</version>
+    <version>upgradeToJava17</version>
     <packaging>takari-maven-plugin</packaging>
 
     <name>Presto Maven Build Extension</name>
